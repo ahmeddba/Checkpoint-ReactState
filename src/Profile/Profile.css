@@ -1,0 +1,19 @@
+.cardd * {
+    color: white;
+    font-size: x-small;
+
+
+}
+.card{
+    margin: 25px 0  !important;
+    width: 350px !important;
+    height: auto !important;
+
+
+}
+.card .imgg{
+height: 100% !important;
+width: auto !important;
+
+}
+
